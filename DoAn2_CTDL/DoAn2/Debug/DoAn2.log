@@ -1,0 +1,49 @@
+﻿  CompressExtractFile.cpp
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(80,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(144,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(199,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(217,22): warning C4018: '<': signed/unsigned mismatch
+  CompressExtractFolder.cpp
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFile.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(56,10): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(79,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(122,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(136,24): warning C4018: '<': signed/unsigned mismatch
+  HuffmanCode.cpp
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\CompressExtractFolder.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+  HuffmanTree.cpp
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\HuffmanCode.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Menu.cpp
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\HuffmanTree.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(8,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(8,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(149,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(151,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(155,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(160,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(183,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(185,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(189,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(194,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(224,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(265,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(270,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(300,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(302,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(343,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(348,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Menu.cpp(97): warning C4715: 'isFileOrFolder': not all control paths return a value
+  DoAn2.vcxproj -> C:\Users\Toan\Downloads\DoAn2_CTDL\DoAn2\Debug\DoAn2.exe
